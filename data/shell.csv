@@ -1,0 +1,14 @@
+id,description
+9701,RunOnceEx commands started
+9702,RunOnceEx commands finished
+9703,RunOnce commands started
+9704,RunOnce commands finished
+9705,Started enumeration of commands for registry key
+9706,Finished enumeration of commands for registry key
+9707,Started execution of command
+9708,Finished execution of command
+9709,Executing From RunKey As Job
+9710,Finished Executing From RunKey As Job
+9711,Executing from startup menu
+9712,Finished executing from startup menu
+28115,Shortcut creation log after program installation

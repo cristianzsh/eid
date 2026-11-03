@@ -1,0 +1,9 @@
+id,description
+5600,Proxy configuration changed (WinINet-Config/ProxyConfigChanged)
+8000,WIFI connection was attempted (WLAN-AutoConfig/Operational)
+8001,WIFI connection was successful (WLAN-AutoConfig/Operational)
+8002,WIFI connection was failed (WLAN-AutoConfig/Operational)
+8003,WIFI connection was terminated (WLAN-AutoConfig/Operational)
+10000,Connect to the Internet (NetworkProfile/Operational)
+10001,Disconnect from the Internet (NetworkProfile/Operational)
+50067,Windows DHCP Client WiFi SSID Received (Dhcp-Client/Admin)

@@ -1,0 +1,6 @@
+id,description
+8002,An executable was allowed to run (EXE and DLL)
+8004,An executable was prevented from running. (EXE and DLL)
+8005,A script or MSI was allowed to run (MSI and Script)
+8007,A script or MSI was prevented from running (MSI and Script)
+8020,A packaged app was allowed to run (Packaged app-Execution)

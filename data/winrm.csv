@@ -1,0 +1,4 @@
+id,description
+6,Creating WSMan Session
+91,Creating WSMan shell on server with ResourceUri
+169,WinRM Authentication

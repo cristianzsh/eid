@@ -1,0 +1,10 @@
+id,description
+100,Task Scheduler started the x instance of the y task for user z
+102,Task Scheduler successfully finished the x instance of the y task for user z
+106,The user x registered the Task Scheduler task y. (New Scheduled Task)
+119,Scheduled Task triggered on logon
+129,Scheduled Task created
+140,Scheduled Task updated
+141,User x deleted Task Scheduler task y
+200,Scheduled Task executed
+201,Scheduled Task completed

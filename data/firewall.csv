@@ -1,0 +1,6 @@
+id,description
+2003,The firewall has been enabled/disabled
+2004,A rule has been added to the Windows Defender Firewall exception list
+2005,A rule has been modified in the Windows Defender Firewall exception list
+2006,A rule has been deleted in the Windows Defender Firewall exception list
+2011,Windows Firewall unable to notify user of blocked application

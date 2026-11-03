@@ -1,0 +1,32 @@
+id,description
+12,OS was started (Kernel-General)
+13,OS was shutdown (Kernel-General)
+26,Application Error (Application Popup)
+42,Sleep/wake events (Kernel-Power)
+104,"The x log file was cleared. (Will show System, Application, and other logs cleared)"
+105,Power source change (Kernel-Power)
+1074,System Shutdown/Restart
+1116,Microsoft Antimalware Detection (Microsoft Antimalware)
+1129,Absence of network connectivity (GroupPolicy)
+1130,Group Policy Script Failure (GroupPolicy)
+1500,Group Policy Settings processed successfully for COMPUTER (GroupPolicy)
+1501,Group Policy Settings processed successfully for USER (GroupPolicy)
+6005,The Event log service was started
+6006,The Event log service was stopped
+6008,Unexpected system shutdown (EventLog)
+6011,System Name Changed (EventLog)
+6013,Windows uptime
+7001,User logon (Winlogon)
+7002,User logoff (Winlogon)
+7009,A timeout was reached (x milliseconds) while waiting for the y service to connect
+7031,Service crashed unexpectedly (Service Control Manager)
+7034,The x service terminated unexpectedly. It has done this y time(s)
+7035,Service sent a Start/Stop control (Service Control Manager)
+7036,Service started or stopped (Service Control Manager)
+7040,Service status change
+7045,A new service was installed in the system. (4697 in Security)
+10000,Device driver installations begins (Device connection) (DriverFrameworks-UserMode)
+10028,DCOM was unable to communicate with the computer (DistributedCOM)
+20001,Device installation (UserPnp)
+20003,Service installation (UserPnp)
+40960,Security authentication error (LsaSrv)

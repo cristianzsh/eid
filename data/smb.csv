@@ -1,0 +1,10 @@
+id,description
+551,SMB session authentication failure (SMBServer/Security)
+1016,Reopen failed (SMBServer/Operational)
+1017,Handle scavenged (SMBServer/Operational)
+1020,File system operation has taken longer than expected (SMBServer/Operational)
+3000,A client attempted to access the server using SMB1 (SMBServer/Audit)
+30805,SMB Client: the client lost its session to the server (SmbClient/Connectivity)
+30806,SMB Client: The client re-established its session to the server (SmbClient/Connectivity)
+30807,The connection to the share was lost (SmbClient/Connectivity)
+31010,The SMB client failed to connect to the share (SmbClient/Security)

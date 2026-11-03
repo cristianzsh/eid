@@ -1,0 +1,5 @@
+id,description
+5857,WMI wmiprvse execution
+5858,WMI Query Error
+5860,WMI Registration of Temporary Event Consumer
+5861,WMI Registration of Permanent Event Consumer

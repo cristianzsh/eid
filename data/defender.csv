@@ -1,0 +1,25 @@
+id,description
+1000,An antimalware scan started
+1001,An antimalware scan finished
+1002,Warning - An antimalware scan was stopped before it finished
+1003,Warning - An antimalware scan was paused
+1004,An antimalware scan was resumed
+1005,Error - An antimalware scan failed
+1006,Detection - The antimalware engine found malware or other potentially unwanted software
+1008,"Error - The antimalware platform attempted to perform an action to protect your system from malware or other potentially unwanted software, but the action failed"
+1011,The antimalware platform deleted an item from quarantine
+1013,The antimalware platform deleted history of malware and other potentially unwanted software
+1116,The antimalware platform detected malware or other potentially unwanted software
+1117,The antimalware platform performed an action to protect your system from malware or other potentially unwanted software
+1118,Antivirus remediation activity failed
+1119,Antivirus remediation activity critically failed
+1134,Microsoft Defender Attack Surface Reduction has audited an operation
+1150,Defender is up and running in a healthy state
+2000,Update - The antimalware definitions updated successfully
+2050,Defender uploaded a file for further analysis
+5000,Real-time Protection was enabled
+5001,Real-time protection was disabled
+5004,Real-time protection configuration changed
+5007,The antimalware platform configuration changed
+5010,Scanning for malware and other potentially unwanted software is disabled
+5012,Scanning for viruses is disabled

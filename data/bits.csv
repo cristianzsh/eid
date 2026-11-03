@@ -1,0 +1,7 @@
+id,description
+3,BITS service created a new job
+4,BITS job completion
+5,BITS job cancellation
+59,BITS transfer has started
+60,BITS transfer has stopped
+61,BITS transfer has stopped (Error)
