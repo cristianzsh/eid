@@ -1,0 +1,7 @@
+id,description
+400,Engine state is changed from None to Available
+403,Engine state is changed from Available to Stopped
+600,Provider x is loaded
+4100,Executing pipeline (PowerShell/Operational)
+4103,Pipeline executed (PowerShell/Operational)
+4104,Contains contents of scripts run (PowerShellCore/Operational)

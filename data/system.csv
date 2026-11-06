@@ -11,6 +11,11 @@ id,description
 1130,Group Policy Script Failure (GroupPolicy)
 1500,Group Policy Settings processed successfully for COMPUTER (GroupPolicy)
 1501,Group Policy Settings processed successfully for USER (GroupPolicy)
+5827,The Netlogon service denied a vulnerable Netlogon secure channel connection from a machine account (NETLOGON)
+5828,The Netlogon service denied a vulnerable Netlogon secure channel connection using a trust account (NETLOGON)
+5829,The Netlogon service allowed a vulnerable Netlogon secure channel connection (NETLOGON)
+5830,The Netlogon service allowed a vulnerable Netlogon secure channel connection from a machine account because the account is in the allow list group policy (NETLOGON)
+5831,The Netlogon service allowed a vulnerable Netlogon secure channel connection using a trust account because the account is in the allow list group policy (NETLOGON)
 6005,The Event log service was started
 6006,The Event log service was stopped
 6008,Unexpected system shutdown (EventLog)

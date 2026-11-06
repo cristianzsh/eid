@@ -3,6 +3,7 @@ security,Windows Security log,Security.evtx
 system,Windows System log,System.evtx
 application,Windows Application log,Application.evtx
 sysmon,Sysmon operational log,Microsoft-Windows-Sysmon%4Operational.evtx
+powershell,Windows PowerShell logs,"Windows PowerShell.evtx, Microsoft-Windows-PowerShell%4Operational.evtx, PowerShellCore%4Operational.evtx"
 tasks,Task Scheduler log,Microsoft-Windows-TaskScheduler%4Operational.evtx
 rdp,Remote Desktop logs,"Microsoft-Windows-RemoteDesktopServices-RdpCoreTS%4Operational.evtx, Microsoft-Windows-TerminalServices-Gateway%4Operational.evtx, Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx, Microsoft-Windows-TerminalServices-RDPClient%4Operational.evtx, Microsoft-Windows-TerminalServices-RemoteConnectionManager%4Operational.evtx"
 defender,Windows Defender log,Microsoft-Windows-Windows Defender%4Operational.evtx
@@ -13,9 +14,9 @@ applocker,Applocker related logs,"Microsoft-Windows-AppLocker%4EXE and DLL.evtx,
 bits,Bits-Client log,Microsoft-Windows-Bits-Client%4Operational.evtx
 firewall,Windows Firewall With Advanced Security log,Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx
 network,Network related logs,"Microsoft-Windows-Dhcp-Client%4Admin.evtx, Microsoft-Windows-NetworkProfile%4Operational.evtx, Microsoft-Windows-WLAN-AutoConfig%4Operational.evtx, Microsoft-Windows-WinINet-Config%4ProxyConfigChanged.evtx"
-other,Other Windows logs with few events each,"Microsoft-Windows-AppID%4Operational.evtx, Microsoft-Windows-Application-Experience%4Program-Compatibility-Assistant.evtx, Microsoft-Windows-Application-Experience%4Program-Telemetry.evtx, Microsoft-Windows-DateTimeControlPanel%4Operational.evtx, Microsoft-Windows-Diagnostics-Performance%4Operational.evtx, Microsoft-Windows-GroupPolicy%4Operational.evtx, Microsoft-Windows-Hyper-V-VMMS-Admin.evtx, Microsoft-Windows-Hyper-V-Worker-Admin.evtx, Microsoft-Windows-PrintService%4Operational.evtx, Microsoft-Windows-TZUtil%4Operational.evtx, Microsoft-Windows-UniversalTelemetryClient%4Operational.evtx, Microsoft-Windows-User Profile Service%4Operational.evtx, Microsoft-Windows-WER-Diag%4Operational.evtx, Microsoft-Windows-Win32k%4Operational.evtx, Microsoft-Windows-Winlogon%4Operational.evtx, OAlerts.evtx, OpenSSH%4Admin.evtx, OpenSSH%4Operational.evtx"
+other,Other Windows logs with few events each,"Microsoft-Windows-Diagnostics-Performance%4Operational.evtx, Microsoft-Windows-Hyper-V-VMMS-Admin.evtx, Microsoft-Windows-Hyper-V-Worker-Admin.evtx, OpenSSH%4Admin.evtx, OpenSSH%4Operational.evtx, Microsoft-Windows-PrintService%4Operational.evtx, Microsoft-Windows-UniversalTelemetryClient%4Operational.evtx, Microsoft-Windows-Win32k%4Operational.evtx, Microsoft-Windows-Winlogon%4Operational.evtx"
 shell,Shell-Core log,Microsoft-Windows-Shell-Core%4Operational.evtx
 smb,Smb related logs,"Microsoft-Windows-SMBServer%4Audit.evtx, Microsoft-Windows-SMBServer%4Operational.evtx, Microsoft-Windows-SMBServer%4Security.evtx, Microsoft-Windows-SmbClient%4Connectivity.evtx, Microsoft-Windows-SmbClient%4Security.evtx"
 winrm,WinRM log,Microsoft-Windows-WinRM%4Operational.evtx
 wmi,WMI-Activity log,Microsoft-Windows-WMI-Activity%4Operational.evtx
-vendor,"Third party security products","Kaspersky Endpoint Security.evtx, Kaspersky Security.evtx"
+vendor,Third party security products,"Kaspersky Endpoint Security.evtx, Kaspersky Security.evtx"
