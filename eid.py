@@ -24,7 +24,7 @@ import fnmatch
 import os
 import sys
 
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 AUTHOR = "Developed by Cristian Souza (cristianmsbr@gmail.com)"
 
 # For PyInstaller
